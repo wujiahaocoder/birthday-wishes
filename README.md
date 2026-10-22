@@ -55,9 +55,9 @@ node scripts/verify.mjs
 
 ## 许可证与署名
 
-采用 [PolyForm Noncommercial License 1.0.0](LICENSE)：**仅限非商业用途，可以自由使用、修改和分发，必须保留原作者署名。**
+采用 [CC BY-NC 4.0（署名—非商业性使用 4.0 国际）](LICENSE)：**仅限非商业用途，可以自由使用、修改和分发，必须保留原作者署名并注明修改。**
 
-分发原版或修改版时，请附带许可证或其官方链接，并保留 [NOTICE](NOTICE) 中的 `Required Notice:` 署名行。
+分发原版或修改版时，请保留 [NOTICE](NOTICE) 中的作者与版权声明，提供[许可证链接](https://creativecommons.org/licenses/by-nc/4.0/)，并标明是否作过修改。
 
 作者：[wujiahaocoder](https://github.com/wujiahaocoder) · 项目：[birthday-wishes](https://github.com/wujiahaocoder/birthday-wishes)
 
