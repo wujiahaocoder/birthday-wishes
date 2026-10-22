@@ -1,0 +1,25 @@
+Birthday Wishes — 今日偏爱 · 生日祝福
+
+Copyright (c) 2026 wujiahaocoder
+Author: wujiahaocoder
+Source: https://github.com/wujiahaocoder/birthday-wishes
+
+Original project material is licensed under Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+https://creativecommons.org/licenses/by-nc/4.0/
+See LICENSE for the complete terms, including the disclaimer of warranties.
+
+When sharing, retain the author and copyright notices, include a license
+link, and indicate whether changes were made, as required by the license.
+
+Third-party code and dependencies retain their own licenses. In particular:
+
+- scripts/vite/sites-vite-plugin.ts
+  Copyright (c) 2026 OpenAI. MIT License.
+  See scripts/vite/sites-vite-plugin.LICENSE.
+
+- vendor/shadcn-tailwind-4.13.0.css
+  Copyright (c) 2023 shadcn. MIT License.
+  See vendor/shadcn-tailwind-4.13.0.LICENSE.md.
+
+For installed dependencies, consult the license files distributed with each package.
