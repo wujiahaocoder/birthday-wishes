@@ -1,7 +1,13 @@
 {
-  "name": "birthday-studio",
+  "name": "birthday-wishes",
   "version": "0.1.0",
   "private": true,
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "author": "wujiahaocoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujiahaocoder/birthday-wishes.git"
+  },
   "engines": {
     "node": ">=22.13.0"
   },

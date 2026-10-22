@@ -1,0 +1,18 @@
+Birthday Wishes — 今日偏爱 · 生日祝福
+
+Required Notice: Copyright (c) 2026 wujiahaocoder (https://github.com/wujiahaocoder/birthday-wishes)
+
+Project-authored code is licensed under the PolyForm Noncommercial License 1.0.0.
+See LICENSE for the complete terms.
+
+Third-party code and dependencies retain their own licenses. In particular:
+
+- scripts/vite/sites-vite-plugin.ts
+  Copyright (c) 2026 OpenAI. MIT License.
+  See scripts/vite/sites-vite-plugin.LICENSE.
+
+- vendor/shadcn-tailwind-4.13.0.css
+  Copyright (c) 2023 shadcn. MIT License.
+  See vendor/shadcn-tailwind-4.13.0.LICENSE.md.
+
+For installed dependencies, consult the license files distributed with each package.
